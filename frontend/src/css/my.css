@@ -1,0 +1,17 @@
+.cen{
+    margin-top: 20px;
+    text-align: center;
+    color: black;
+}
+.p1{
+    font-size: 20px;
+    color: black;
+    text-decoration: underline;
+}
+.titlearea{
+    background-color: rgb(240, 240, 240);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 30px;
+    width: 100%;
+}
